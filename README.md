@@ -192,12 +192,4 @@ You can customize the `urls` and `query` directly in the `main.py` file.
 
 ---
 
-## Google Colab
-
-You can try the code interactively using Google Colab:
-
-[Run on Google Colab](https://colab.research.google.com/drive/1yvyEYCD0q8su5AVQdcEa-cm22rWq3yDa?usp=sharing)
-
----
-
 This README provides detailed instructions on how to use and understand the code, along with documentation of the main functions and parameters. You can modify the parameters according to your needs to fine-tune the results.
